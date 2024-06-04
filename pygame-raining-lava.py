@@ -56,7 +56,7 @@ running = True
 while running:
     screen.fill(BLACK)
 
-    # Event handling
+    # Event handling (used chatgpt)
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             running = False
