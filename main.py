@@ -1,4 +1,4 @@
-# main.py
+# LAVA FALL game
 # Crystal Li
 # Block B computer programming
 # June 4 2024
